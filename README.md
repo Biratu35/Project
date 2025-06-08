@@ -21,7 +21,7 @@ This is a modern responsive website built for the Ethiopian Orthodox Tewahedo Ch
 
 ## 📷 Screenshots
 
-![Homepage Screenshot](images/screenshot.png)
+![Homepage Screenshot](https://raw.githubusercontent.com/Biratu35/project/refs/heads/main/folder-name/eotc%20church.jpg)
 
 ## 📌 How to Use
 
