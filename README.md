@@ -4,7 +4,7 @@ This is a modern responsive website built for the Ethiopian Orthodox Tewahedo Ch
 
 ## 🌐 Live Demo
 
-[View on Netlify](https://yourprojectname.netlify.app)
+[View on Netlify](https://biratu-project1.netlify.app/)
 
 ## 🛠️ Features
 
@@ -17,7 +17,7 @@ This is a modern responsive website built for the Ethiopian Orthodox Tewahedo Ch
 
 - HTML
 - CSS
-- (Optional: JavaScript)
+- JavaScript
 
 ## 📷 Screenshots
 
